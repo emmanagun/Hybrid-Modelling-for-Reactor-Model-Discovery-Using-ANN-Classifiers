@@ -44,7 +44,8 @@ Application Workflow
         Identify the most probable reactor model
 
 Code Structure
-    kinetic_model_*: Define four kinetic models based on Langmuir-Hinshelwood type kinetics
+    kinetic_model_: reported in Waldron, C., Pankajakshan, A., Quaglio, M., Cao, E., Galvanin, F., and Gavriilidis, A., 2019. https://doi.org/10.1021/acs.iecr.9b04089![image](https://github.com/user-attachments/assets/3ab6e2c9-8473-4548-81da-391e66694d9d)
+
     CSTR, PFR: Model equations for different reactor types
     solve_CSTR, solve_PFR: Solvers for steady-state conditions
     CSTR_series: Simulates a chain of CSTRs
@@ -79,9 +80,13 @@ x_out = model_solve(tau, x_in, u, theta, r, km)
 Citation
 
 If you use this code for your research or publication, please cite the relevant work or acknowledge the original authors.
-1)	Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Hybrid Modelling Framework for Reactor Model Discovery Using Artificial Neural Networks Classifiers, 1st SUSTENS Meeting – Advances in Sustainable Engineering Systems, a Virtual conference taking place on 4–5 June 2025, accepted for oral Presentation
+1)  Quaglio, M., Roberts, L.R., Jaapar, M.S., Fraga, E.S., Dua, V., & Galvanin, F. 2020. https://doi.org/10.1016/j.compchemeng.2020.106759![image](https://github.com/user-attachments/assets/138f4ae3-e244-466b-b26a-612180b54c61)
 
-2)  Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Reactor Model Discovery Using an Artificial Neural Networks Classifier Framework, ChemEngDayUK2025 Sheffield, University of Sheffield University, accepted for poster presentation. (Poster Presentation).
+2)  Sangoi, E., Quaglio, M., Bezzo, F., Galvanin, F., 2024, https://doi.org/10.1016/j.compchemeng.2024.108752.![image](https://github.com/user-attachments/assets/53f3c0fb-0766-4485-b035-ccdd4f272bbe)
+
+3)	Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Hybrid Modelling Framework for Reactor Model Discovery Using Artificial Neural Networks Classifiers, 1st SUSTENS Meeting – Advances in Sustainable Engineering Systems, a Virtual conference taking place on 4–5 June 2025, accepted for oral Presentation
+
+4)  Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Reactor Model Discovery Using an Artificial Neural Networks Classifier Framework, ChemEngDayUK2025 Sheffield, University of Sheffield University, accepted for poster presentation. (Poster Presentation).
 ![image](https://github.com/user-attachments/assets/8568a96f-4f21-445e-ac93-618ddc91772d)
 
 
