@@ -86,8 +86,7 @@ If you use this code for your research or publication, please cite the relevant 
 
 3)	Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Hybrid Modelling Framework for Reactor Model Discovery Using Artificial Neural Networks Classifiers, 1st SUSTENS Meeting – Advances in Sustainable Engineering Systems, a Virtual conference taking place on 4–5 June 2025, accepted for oral Presentation
 
-4)  Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Reactor Model Discovery Using an Artificial Neural Networks Classifier Framework, ChemEngDayUK2025 Sheffield, University of Sheffield University, accepted for poster presentation. (Poster Presentation).
-![image](https://github.com/user-attachments/assets/8568a96f-4f21-445e-ac93-618ddc91772d)
+4)  Emmanuel Agunloye, Asterios Gavriilidis, Federico Galvanin, Reactor Model Discovery Using an Artificial Neural Networks Classifier Framework, ChemEngDayUK2025 Sheffield, University of Sheffield University, accepted for poster presentation.
 
 
 License
